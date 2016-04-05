@@ -35,14 +35,7 @@
         "sensio/buzz-bundle": "1.0.0"
     },
     "require-dev": {
-        "behat/mink": "v1.5.0",
         "liip/functional-test-bundle": "~1.2.2",
-        "behat/mink-selenium2-driver": "~1.1",
-        "behat/behat": "2.5.4",
-        "behat/symfony2-extension": "1.1.2",
-        "behat/mink-extension": "1.3.3",
-        "behat/common-contexts": "1.2.0",
-        "behat/mink-browserkit-driver": "1.1.0",
         "polishsymfonycommunity/symfony2-mocker-extension": "1.0.0",
         "phpunit/phpunit": "~4.8",
         "phpspec/prophecy": "1.4.1"
